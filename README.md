@@ -1,0 +1,4 @@
+# Movie-Theater
+
+This program creates a "Monaco" style movie theater that allows the user to order tickets for a specific showing of a movie.
+
